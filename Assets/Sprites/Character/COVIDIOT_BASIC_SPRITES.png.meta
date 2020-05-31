@@ -1,0 +1,560 @@
+fileFormatVersion: 2
+guid: ec2a4b6b487f93a40b0723f14a661f56
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 794831693907751528
+    second: COVIDIOT_BASIC_SPRITES_0
+  - first:
+      213: 8129283836403418026
+    second: COVIDIOT_BASIC_SPRITES_1
+  - first:
+      213: -3434315022470664380
+    second: COVIDIOT_BASIC_SPRITES_2
+  - first:
+      213: 6435310424267791869
+    second: COVIDIOT_BASIC_SPRITES_3
+  - first:
+      213: -6159367372900978875
+    second: COVIDIOT_BASIC_SPRITES_4
+  - first:
+      213: 6822252577575797097
+    second: COVIDIOT_BASIC_SPRITES_5
+  - first:
+      213: 1239647717856963609
+    second: COVIDIOT_BASIC_SPRITES_6
+  - first:
+      213: 7662540893833535004
+    second: COVIDIOT_BASIC_SPRITES_7
+  - first:
+      213: 6115363372417336601
+    second: COVIDIOT_BASIC_SPRITES_8
+  - first:
+      213: 5629685121257268888
+    second: COVIDIOT_BASIC_SPRITES_9
+  - first:
+      213: 6340207601477675779
+    second: COVIDIOT_BASIC_SPRITES_10
+  - first:
+      213: 9192448246353186391
+    second: COVIDIOT_BASIC_SPRITES_11
+  - first:
+      213: -2698952771475665273
+    second: COVIDIOT_BASIC_SPRITES_12
+  - first:
+      213: -9035520300008289123
+    second: COVIDIOT_BASIC_SPRITES_13
+  - first:
+      213: -794570100376480361
+    second: COVIDIOT_BASIC_SPRITES_14
+  - first:
+      213: -123399424562073107
+    second: COVIDIOT_BASIC_SPRITES_15
+  - first:
+      213: 4439813590072862961
+    second: COVIDIOT_BASIC_SPRITES_0
+  - first:
+      213: 9215256902662878612
+    second: COVIDIOT_BASIC_SPRITES_1
+  - first:
+      213: 321033331983244591
+    second: COVIDIOT_BASIC_SPRITES_2
+  - first:
+      213: 2297503904875305457
+    second: COVIDIOT_BASIC_SPRITES_3
+  - first:
+      213: 8052637618203114465
+    second: COVIDIOT_BASIC_SPRITES_4
+  - first:
+      213: -3480456063976294090
+    second: COVIDIOT_BASIC_SPRITES_5
+  - first:
+      213: -7902318087386140971
+    second: COVIDIOT_BASIC_SPRITES_6
+  - first:
+      213: 2060731843879831124
+    second: COVIDIOT_BASIC_SPRITES_7
+  - first:
+      213: 8698825357344453105
+    second: COVIDIOT_BASIC_SPRITES_8
+  - first:
+      213: -2326816591361449240
+    second: COVIDIOT_BASIC_SPRITES_9
+  - first:
+      213: -7403847998825808668
+    second: COVIDIOT_BASIC_SPRITES_10
+  - first:
+      213: -6601037725089973759
+    second: COVIDIOT_BASIC_SPRITES_11
+  - first:
+      213: 6520899291080290355
+    second: COVIDIOT_BASIC_SPRITES_12
+  - first:
+      213: 2318294176416234898
+    second: COVIDIOT_BASIC_SPRITES_13
+  - first:
+      213: 8879033745265948210
+    second: COVIDIOT_BASIC_SPRITES_14
+  - first:
+      213: -8816437583401151801
+    second: COVIDIOT_BASIC_SPRITES_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: COVIDIOT_BASIC_SPRITES_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8ae31efe26d9d30800000000000000
+      internalID: 4439813590072862961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVIDIOT_BASIC_SPRITES_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495ff25145b23ef70800000000000000
+      internalID: 9215256902662878612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVIDIOT_BASIC_SPRITES_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ddbe15d1a847400800000000000000
+      internalID: 321033331983244591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVIDIOT_BASIC_SPRITES_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f95a28f0af52ef10800000000000000
+      internalID: 2297503904875305457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVIDIOT_BASIC_SPRITES_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ebb1f1cf37b0cf60800000000000000
+      internalID: 8052637618203114465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVIDIOT_BASIC_SPRITES_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639b65a66afe2bfc0800000000000000
+      internalID: -3480456063976294090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVIDIOT_BASIC_SPRITES_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de643b5193555290800000000000000
+      internalID: -7902318087386140971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVIDIOT_BASIC_SPRITES_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4560bcb91b0399c10800000000000000
+      internalID: 2060731843879831124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVIDIOT_BASIC_SPRITES_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f13dabf29f68b870800000000000000
+      internalID: 8698825357344453105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVIDIOT_BASIC_SPRITES_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e26a6e53ac75bfd0800000000000000
+      internalID: -2326816591361449240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVIDIOT_BASIC_SPRITES_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec300be87f304990800000000000000
+      internalID: -7403847998825808668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVIDIOT_BASIC_SPRITES_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a3f0fa9276464a0800000000000000
+      internalID: -6601037725089973759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVIDIOT_BASIC_SPRITES_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330ffe42b53ee7a50800000000000000
+      internalID: 6520899291080290355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVIDIOT_BASIC_SPRITES_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d7526454c3c2020800000000000000
+      internalID: 2318294176416234898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVIDIOT_BASIC_SPRITES_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236784fe52aa83b70800000000000000
+      internalID: 8879033745265948210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COVIDIOT_BASIC_SPRITES_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c298f8bab8b5a580800000000000000
+      internalID: -8816437583401151801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
