@@ -1,4 +1,4 @@
-##The Grossery
+# The Grossery
 
 This game was created in 24 hours as a part of MasseyHacks VI.
 
