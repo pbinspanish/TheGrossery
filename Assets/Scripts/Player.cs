@@ -263,7 +263,16 @@ public class Player : MonoBehaviour
 
         if (col.gameObject.tag == "win")
         {
-            SceneManager.LoadScene(5);
+            if (bananaGet == true && BeanzGet == true && PizzaGet == true)
+            {
+
+                SceneManager.LoadScene(5);
+            }
+            else {
+                Debug.Log("nah");
+            
+            }
+            
         
         
         }
